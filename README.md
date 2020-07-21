@@ -5,5 +5,5 @@ This website is fully responsive results in which the website can access in any 
 Through this website a user can buy ticks easilly without wasting time on stading on queue or travelling .
 
 # Interface of the website on diffrent devices
-
+<img src="https://github.com/Sagarnaikg/AMAZON-MOUNTAIN/blob/master/iPhone%2011%20Pro%20Max.png" width=150px/>
 
