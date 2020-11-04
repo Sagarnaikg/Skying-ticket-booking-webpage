@@ -11,7 +11,6 @@ Through this website a user can buy ticks easilly without wasting time on stadin
 # Interface of the website on diffrent devices
 <div style="display:flex" >
 <img src="https://github.com/Sagarnaikg/AMAZON-MOUNTAIN/blob/master/iPhone%2011%20Pro%20Max.png" width=150px/>
-<img src="https://github.com/Sagarnaikg/AMAZON-MOUNTAIN/blob/master/iPad%20Pro%20Portrait.png" width=300px />
 <img src="https://github.com/Sagarnaikg/AMAZON-MOUNTAIN/blob/master/Broswer%20Window.png" width=500px />
   </div>
 
