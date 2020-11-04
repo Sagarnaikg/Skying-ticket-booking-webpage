@@ -8,6 +8,8 @@ Through this website a user can buy ticks easilly without wasting time on stadin
 * HTML5
 * CSS3
 
+View the website :- [Live demo](https://sagarnaikg.github.io/Skying-ticket-booking-webpage/index.html)
+
 # Interface of the website on diffrent devices
 <div style="display:flex" >
 <img src="https://github.com/Sagarnaikg/AMAZON-MOUNTAIN/blob/master/iPhone%2011%20Pro%20Max.png" width=150px/>
