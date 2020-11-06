@@ -140,6 +140,7 @@ body {
 
 .pri-btn,
 .sec-btn {
+  min-width: 160px;
   max-width: 30vw;
   cursor: pointer;
   font-size: 0.7rem;
